@@ -1,12 +1,12 @@
 # dev-lib
 
-## VANILLA LIB 
+## VANILLA LIB ⚡
 Disponibilizo **acesso completo e vitalício** a repositórios privados no GitHub com uma coleção de **boilerplates, tutoriais, códigos-fonte, documentação e projetos práticos com foco em HTML/CSS/JAVASCRIPT**. O acesso é liberado individualmente após a confirmação do pagamento. Para adquirir, entre em contato pelo Telegram e informe seu usuário do GitHub.
 > PREÇO: R$ 100,00 
-## PYTHON LIB 
+## PYTHON LIB 🐍
 Disponibilizo **acesso completo e vitalício** a repositórios privados no GitHub com uma coleção de **boilerplates, tutoriais, códigos-fonte, documentação e projetos práticos com foco em PYTHON**. O acesso é liberado individualmente após a confirmação do pagamento. Para adquirir, entre em contato pelo Telegram e informe seu usuário do GitHub.
 > PREÇO: R$ 100,00 
 ---
 
-[Comprar via Telegram ↗](https://t.me/liberstack)       
+[COMPRAR via Telegram ↗](https://t.me/liberstack)       
 > Pagamento via PIX ou Transferência 
