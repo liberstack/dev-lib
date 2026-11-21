@@ -8,5 +8,5 @@ Disponibilizo **acesso completo e vitalício** a repositórios privados no GitHu
 > PREÇO: R$ 100,00 
 ---
 
-[💳 COMPRAR ↗](https://t.me/liberstack)       
+[💬 TELEGRAM ↗](https://t.me/liberstack)       
 > Pagamento via PIX ou Transferência 
