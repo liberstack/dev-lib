@@ -9,4 +9,3 @@ Disponibilizo **acesso completo e vitalício** a repositórios privados no GitHu
 ---
 
 [💬 TELEGRAM](https://t.me/liberstack)       
-> Pagamento via PIX ou Transferência 
